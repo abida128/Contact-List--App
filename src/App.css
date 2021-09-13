@@ -1,0 +1,76 @@
+/* All  */
+*{
+  padding: 0;
+  margin: 0;
+
+}
+
+/* main div in HTML file */
+#root{
+  background-color: rgb(102, 166, 226);
+}
+
+/*  Header in App.js file  */
+.header{
+  font-family: cursive;
+  text-shadow: 2px  4px ;
+  text-align: center;
+  font-size: 3rem;
+  color:rgb(4, 1, 14);
+  /* margin-top: 3%; */
+  line-height: 6rem;
+}
+
+/* Data about User in Card */
+.card{
+  justify-content: center;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  height: auto;
+  width: 45%;
+  background-Color: rgb(83, 104, 173);
+  margin: 45px;
+  padding:20px;
+  display: flex;
+  flex-direction: row;
+  margin-left: 30%;
+  border: none;
+  border-radius: 5px;
+  
+
+}
+
+.card:hover{
+   box-shadow: 6px 5px 10px 10px rgb(63, 63, 250);
+   color: rgb(7, 1, 1);
+   cursor: pointer;
+   border: none;
+}
+
+
+.card-body{
+  color: black;
+  font-size: large;
+  font-family: 'Courier New', Courier, monospace;
+  height: 45vh;
+  min-width: 50%; 
+}
+
+/* Toggle Button for User Age */
+#button{
+  line-height: normal;
+  padding: 12px 30px; 
+  border-radius: 10px;
+  border: none;
+  font-family: cursive;
+  font-weight:lighter;
+  color: black;
+  background: rgb(77, 77, 121);
+}
+#button:hover{
+  cursor: pointer;
+  background: rgb(171, 198, 226);
+  color: rgb(56, 52, 52); 
+  border: none;
+ 
+}
