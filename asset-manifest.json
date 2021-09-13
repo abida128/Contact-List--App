@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Contact-List--App/static/css/main.c548f099.chunk.css",
+    "main.js": "/Contact-List--App/static/js/main.cbd534c7.chunk.js",
+    "main.js.map": "/Contact-List--App/static/js/main.cbd534c7.chunk.js.map",
+    "runtime-main.js": "/Contact-List--App/static/js/runtime-main.439aa3df.js",
+    "runtime-main.js.map": "/Contact-List--App/static/js/runtime-main.439aa3df.js.map",
+    "static/css/2.818011ed.chunk.css": "/Contact-List--App/static/css/2.818011ed.chunk.css",
+    "static/js/2.fe934c66.chunk.js": "/Contact-List--App/static/js/2.fe934c66.chunk.js",
+    "static/js/2.fe934c66.chunk.js.map": "/Contact-List--App/static/js/2.fe934c66.chunk.js.map",
+    "static/js/3.6770df63.chunk.js": "/Contact-List--App/static/js/3.6770df63.chunk.js",
+    "static/js/3.6770df63.chunk.js.map": "/Contact-List--App/static/js/3.6770df63.chunk.js.map",
+    "index.html": "/Contact-List--App/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/Contact-List--App/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.c548f099.chunk.css.map": "/Contact-List--App/static/css/main.c548f099.chunk.css.map",
+    "static/js/2.fe934c66.chunk.js.LICENSE.txt": "/Contact-List--App/static/js/2.fe934c66.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.439aa3df.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.fe934c66.chunk.js",
+    "static/css/main.c548f099.chunk.css",
+    "static/js/main.cbd534c7.chunk.js"
+  ]
+}
